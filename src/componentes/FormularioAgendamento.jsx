@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import FeedbackSucesso from './FeedbackSucesso';
+import './FormularioAgendamento.css';
 
 function FormularioAgendamento({ medicoId }) {
   const [nome, setNome] = useState('');

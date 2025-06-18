@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import './CardMedico.css';
 
 function CardMedico({ nome, especialidade }) {
   const navigate = useNavigate();

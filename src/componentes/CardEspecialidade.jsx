@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import './CardEspecialidade.css';
 
 function CardEspecialidade({ especialidade }) {
   const navigate = useNavigate();

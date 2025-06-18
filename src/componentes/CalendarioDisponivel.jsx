@@ -1,4 +1,5 @@
 import React from 'react';
+import './CalendarioDisponivel.css';
 
 function CalendarioDisponivel({ medicoId }) {
   return (

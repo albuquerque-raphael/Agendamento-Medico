@@ -1,0 +1,25 @@
+.card-medico {
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  background-color: #ffffff;
+  transition: box-shadow 0.3s ease;
+}
+
+.card-medico:hover {
+  box-shadow: 0 4px 8px rgba(40, 167, 69, 0.2);
+}
+
+.card-medico button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.card-medico button:hover {
+  background-color: #218838;
+}
