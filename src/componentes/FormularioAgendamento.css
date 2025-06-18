@@ -1,0 +1,24 @@
+.formulario-agendamento form {
+  display: flex;
+  flex-direction: column;
+}
+
+.formulario-agendamento input {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #ced4da;
+}
+
+.formulario-agendamento button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.formulario-agendamento button:hover {
+  background-color: #0056b3;
+}

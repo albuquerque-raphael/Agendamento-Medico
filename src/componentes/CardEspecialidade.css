@@ -1,0 +1,14 @@
+.card-especialidade {
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.5rem;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+  background-color: #ffffff;
+}
+
+.card-especialidade:hover {
+  box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+  transform: translateY(-2px);
+}

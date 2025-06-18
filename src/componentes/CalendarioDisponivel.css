@@ -1,0 +1,10 @@
+.calendario-disponivel {
+  background-color: #f1f3f5;
+  padding: 1rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+.calendario-disponivel h4 {
+  color: #343a40;
+}
